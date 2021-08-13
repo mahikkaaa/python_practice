@@ -12,7 +12,7 @@ whose actions reasonably cause the apprehension of death or grievous hurt.
 In such circumstances the action taken by the police is fully protected by law.""")
 
 print("As per the constitution in section 97 IPC enables use of force in self defense \n only to protect one’s body and that of others from the actions of\tassaulting criminals/offenders, whose actions reasonably cause the apprehension of death or grievous hurt. In such circumstances "
-      #"the action taken by the police is fully protected by law.")
+      "the action taken by the police is fully protected by law.")
 
 print(1+2)
 a="1"
