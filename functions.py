@@ -98,3 +98,25 @@ if(choice=="1"):
 if(choice=="2"):
     beverage()
 
+#program to call a
+def swap():
+    x = int(input("enter any number:"))
+    y = int(input("enter any number:"))
+    print("the orginal x is",x)
+    print("the original y is",y)
+    x,y=y,x
+    print("the new x is",x)
+    print("the new y is",y)
+swap()
+
+def swap():
+    x = int(input("enter any number:"))
+    y = int(input("enter any number:"))
+    print("the orginal x is",x)
+    print("the original y is",y)
+    a=x
+    x=y
+    y=a
+    print("the new x is", x)
+    print("the new y is",y)
+swap()
