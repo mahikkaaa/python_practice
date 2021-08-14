@@ -120,3 +120,23 @@ def swap():
     print("the new x is", x)
     print("the new y is",y)
 swap()
+
+
+
+class ME:
+    a=14
+    b="mahika"
+    c=9.2
+    def random(self,e,f):
+        print("values are:", e,",", f)
+        d=e+f
+        print("the sum is:",d)
+P = ME()
+print("interger is",P.a)
+print("string is",P.b)
+print("float is",P.c)
+e=int(input("enter value1:"))
+f=float(input("enter value2:"))
+P.random(e,f)
+
+
